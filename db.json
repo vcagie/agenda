@@ -1,0 +1,186 @@
+{
+    "upcomingAgendaList": [
+        {
+            "id": 2,
+            "title": "Menumbuhkan kesenian daerah ",
+            "imageUrl": "http://seputarkampus.com/wp-content/uploads/2014/03/Astra1st-2014-l-SeputarKampus.png",
+            "tanggalString": "10-Jul-1905",
+            "jamString": "00:00:00",
+            "lokasi": "Surabaya dan sekitarnya",
+            "description": "daerah jakarta, bandung, surabaya, makassar"
+        },
+        {
+            "id": 3,
+            "title": "Mendapat penghargaan dari Presideng",
+            "imageUrl": "http://industri.ub.ac.id/id/wp-content/uploads/2015/05/img056-copy.png",
+            "tanggalString": "10-Jul-1905",
+            "jamString": "00:00:00",
+            "lokasi": "Tangerang dan sekitarnya",
+            "description": "penghargaan perusahaan terkemuka di indonesia"
+        },
+        {
+            "id": 5,
+            "title": "JOB FAIR AMDI",
+            "imageUrl": "http://www.unika.ac.id/sscc/wp-content/uploads/sites/2/2016/09/img901.jpg",
+            "tanggalString": "01-Feb-2018",
+            "jamString": "00:00:00",
+            "lokasi": "Sunter, jakarta Utara",
+            "description": "<p><strong>BUILD YOUR CAREER!\n</strong></p><p>Bagi Astra, Sumber Daya Manusia (SDM) merupakan aset dan faktor utama yang menentukan kesuksesan perusahaan. Astra membina hubungan kerja jangka panjang yang saling menguntungkan, sehingga tumbu ..."
+        },
+        {
+            "id": 6,
+            "title": "JOB FAIR AMDI GEDUNG B",
+            "imageUrl": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_960_720.jpg",
+            "tanggalString": "02-Jan-2018",
+            "jamString": "00:00:00",
+            "lokasi": "AMDI B Lt.10",
+            "description": "<h3 class=\"mb-30\" style=\"box-sizing:border-box;font-family:frutiger;font-weight:normal;line-height:1.4;color:#15529e;margin-top:20px;margin-bottom:30px;font-size:24px;background-color:#ffffff;\">Astra International Investasi USD150 Juta di G ..."
+        },
+        {
+            "id": 8,
+            "title": "JOB FAIR SURABAYA",
+            "imageUrl": "https://cdn.pixabay.com/photo/2017/02/08/17/24/butterfly-2049567__340.jpg",
+            "tanggalString": "02-Jan-2018",
+            "jamString": "00:00:00",
+            "lokasi": "Surabaya",
+            "description": "Job fair Surabaya"
+        },
+        {
+            "id": 12,
+            "title": "TESTING TIME EVENT ",
+            "imageUrl": "http://www.unika.ac.id/sscc/wp-content/uploads/sites/2/2016/09/img901.jpg",
+            "tanggalString": "28-Feb-2018",
+            "jamString": "08:00:00",
+            "lokasi": "AMDI A",
+            "description": "<div style=\"margin:0px 14.3906px 0px 28.7969px;padding:0px;width:436.797px;float:left;font-family:'Open Sans', Arial, sans-serif;font-size:14px;background-color:#ffffff;\"><h2 style=\"margin:0px 0px 10px;padding:0px;font-weight:400;line-heigh ..."
+        },
+        {
+            "id": 13,
+            "title": "Test Event",
+            "imageUrl": "https://cdn.pixabay.com/photo/2017/02/08/17/24/butterfly-2049567__340.jpg",
+            "tanggalString": "12-Feb-2019",
+            "jamString": "00:00:00",
+            "lokasi": "asd",
+            "description": "asd"
+        },
+        {
+            "id": 16,
+            "title": "test",
+            "imageUrl": "http://seputarkampus.com/wp-content/uploads/2014/03/Astra1st-2014-l-SeputarKampus.png",
+            "tanggalString": "24-Sep-2019",
+            "jamString": "00:00:00",
+            "lokasi": "test",
+            "description": "test"
+        },
+        {
+            "id": 17,
+            "title": "sda",
+            "imageUrl": "https://cdn.pixabay.com/photo/2017/02/08/17/24/butterfly-2049567__340.jpg",
+            "tanggalString": "04-Sep-2019",
+            "jamString": "00:00:00",
+            "lokasi": "asdasd",
+            "description": "dasdasd"
+        },
+        {
+            "id": 18,
+            "title": "dsfbdsjkc",
+            "imageUrl": "http://www.unika.ac.id/sscc/wp-content/uploads/sites/2/2016/09/img901.jpg",
+            "tanggalString": "03-Sep-2019",
+            "jamString": "00:00:00",
+            "lokasi": "hjabcjas",
+            "description": "kjbaskjcnas"
+        }
+    ],
+    "postAgendaList": [
+        {
+            "id": 2,
+            "title": "Menumbuhkan kesenian daerah ",
+            "imageUrl": "http://seputarkampus.com/wp-content/uploads/2014/03/Astra1st-2014-l-SeputarKampus.png",
+            "tanggalString": "10-Jul-1905",
+            "jamString": "00:00:00",
+            "lokasi": "Surabaya dan sekitarnya",
+            "description": "daerah jakarta, bandung, surabaya, makassar"
+        },
+        {
+            "id": 3,
+            "title": "Mendapat penghargaan dari Presideng",
+            "imageUrl": "http://www.unika.ac.id/sscc/wp-content/uploads/sites/2/2016/09/img901.jpg",
+            "tanggalString": "10-Jul-1905",
+            "jamString": "00:00:00",
+            "lokasi": "Tangerang dan sekitarnya",
+            "description": "penghargaan perusahaan terkemuka di indonesia"
+        },
+        {
+            "id": 5,
+            "title": "JOB FAIR AMDI",
+            "imageUrl": "http://www.unika.ac.id/sscc/wp-content/uploads/sites/2/2016/09/img901.jpg",
+            "tanggalString": "01-Feb-2018",
+            "jamString": "00:00:00",
+            "lokasi": "Sunter, jakarta Utara",
+            "description": "<p><strong>BUILD YOUR CAREER!\n</strong></p><p>Bagi Astra, Sumber Daya Manusia (SDM) merupakan aset dan faktor utama yang menentukan kesuksesan perusahaan. Astra membina hubungan kerja jangka panjang yang saling menguntungkan, sehingga tumbu ..."
+        },
+        {
+            "id": 6,
+            "title": "JOB FAIR AMDI GEDUNG B",
+            "imageUrl": "http://seputarkampus.com/wp-content/uploads/2014/03/Astra1st-2014-l-SeputarKampus.png",
+            "tanggalString": "02-Jan-2018",
+            "jamString": "00:00:00",
+            "lokasi": "AMDI B Lt.10",
+            "description": "<h3 class=\"mb-30\" style=\"box-sizing:border-box;font-family:frutiger;font-weight:normal;line-height:1.4;color:#15529e;margin-top:20px;margin-bottom:30px;font-size:24px;background-color:#ffffff;\">Astra International Investasi USD150 Juta di G ..."
+        },
+        {
+            "id": 8,
+            "title": "JOB FAIR SURABAYA",
+            "imageUrl": "http://www.unika.ac.id/sscc/wp-content/uploads/sites/2/2016/09/img901.jpg",
+            "tanggalString": "02-Jan-2018",
+            "jamString": "00:00:00",
+            "lokasi": "Surabaya",
+            "description": "Job fair Surabaya"
+        },
+        {
+            "id": 12,
+            "title": "TESTING TIME EVENT ",
+            "imageUrl": "http://industri.ub.ac.id/id/wp-content/uploads/2015/05/img056-copy.png",
+            "tanggalString": "28-Feb-2018",
+            "jamString": "08:00:00",
+            "lokasi": "AMDI A",
+            "description": "<div style=\"margin:0px 14.3906px 0px 28.7969px;padding:0px;width:436.797px;float:left;font-family:'Open Sans', Arial, sans-serif;font-size:14px;background-color:#ffffff;\"><h2 style=\"margin:0px 0px 10px;padding:0px;font-weight:400;line-heigh ..."
+        },
+        {
+            "id": 13,
+            "title": "Test Event",
+            "imageUrl": "http://industri.ub.ac.id/id/wp-content/uploads/2015/05/img056-copy.png",
+            "tanggalString": "12-Feb-2019",
+            "jamString": "00:00:00",
+            "lokasi": "asd",
+            "description": "asd"
+        },
+        {
+            "id": 16,
+            "title": "test",
+            "imageUrl": "http://seputarkampus.com/wp-content/uploads/2014/03/Astra1st-2014-l-SeputarKampus.png",
+            "tanggalString": "24-Sep-2019",
+            "jamString": "00:00:00",
+            "lokasi": "test",
+            "description": "test"
+        },
+        {
+            "id": 17,
+            "title": "sda",
+            "imageUrl": "http://industri.ub.ac.id/id/wp-content/uploads/2015/05/img056-copy.png",
+            "tanggalString": "04-Sep-2019",
+            "jamString": "00:00:00",
+            "lokasi": "asdasd",
+            "description": "dasdasd"
+        },
+        {
+            "id": 18,
+            "title": "dsfbdsjkc",
+            "imageUrl": "http://industri.ub.ac.id/id/wp-content/uploads/2015/05/img056-copy.png",
+            "tanggalString": "03-Sep-2019",
+            "jamString": "00:00:00",
+            "lokasi": "hjabcjas",
+            "description": "kjbaskjcnas"
+        }
+    ]
+}
